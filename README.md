@@ -4,6 +4,7 @@
   Hi there, I'm Mohamed Abdellatif! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32">
 </h1>
 
+
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Data%20Scientist%20%26%20Data%20Analyst;Data%20Visualization%20Specialist;Always%20learning%20new%20things;&font=Fira%20Code&center=true&width=440&height=45&color=58a6ff&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
@@ -59,7 +60,7 @@
 [![LinkedIn](https://img.shields.io/badge/-Mohamed%20Abdellatif-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/MohamedAbdellatif2)
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Mohamed_Abdellatif_2)
 [![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mohamed.abdellatif.work@gmail.com)
 
 ---
 
