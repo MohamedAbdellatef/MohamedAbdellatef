@@ -21,7 +21,6 @@
 - 📊 Skilled in extracting, cleaning, and visualizing data to drive meaningful business decisions.
 - 🌏 I enjoy solving real-world problems with data and presenting findings through compelling dashboards and reports.
 - 📝 I love sharing data analysis techniques and best practices with the community.
-- ♟️ Fun fact: I'm a chess enthusiast—my perfect day starts and ends with a chess match.
 
 ---
 
