@@ -62,7 +62,7 @@
 
 ### 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-Mohamed%20Abdellatef-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/MohamedAbdellatif2)
+[![LinkedIn](https://img.shields.io/badge/-Mohamed%20Abdellatef-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/MohamedAbdellatif2](https://www.linkedin.com/in/mohamed-abdellatif-/))
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Mohamed_Abdellatif_2)
 [![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)]([https://www.kaggle.com/](https://www.kaggle.com/mohamedabdellatef22))
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mohamed.abdellatif.work@gmail.com)
