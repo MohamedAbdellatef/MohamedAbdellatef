@@ -69,7 +69,7 @@
 ---
 
 
-## 📈 GitHub Stats
+## 📈 GitHub Stat
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MohamedAbdellatif2&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/>
