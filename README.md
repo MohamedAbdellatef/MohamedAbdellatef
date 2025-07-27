@@ -20,7 +20,7 @@
 - 🎓 Computer Science student, always exploring new tools and methodologies in data analysis and visualization.
 - 📊 Skilled in extracting, cleaning, and visualizing data to drive meaningful business decisions.
 - 🌏 I enjoy solving real-world problems with data and presenting findings through compelling dashboards and reports.
-- 📝 I love sharing data analysis techniques and best practices with the community.
+- 👨‍💻 Check out my portfolio at https://mohamedabdellatef.me/ to see some of the projects I've worked on.
 
 ---
 
@@ -67,22 +67,8 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mohamed.abdellatif.work@gmail.com)
 
 ---
-
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohamedAbdellatif2&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedAbdellatif2&theme=radical" alt="GitHub Streak" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAbdellatif2&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
-
----
-
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MohamedAbdellatif2&style=flat-square&color=blue" alt="Profile Views"/>
-</p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yousefdergham&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
+<br>
+<a href="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge">
+</a>
