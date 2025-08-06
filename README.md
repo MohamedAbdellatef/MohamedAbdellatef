@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Data%20Scientist%20%26%20Data%20Analyst;Always%20learning%20new%20things;&font=Fira%20Code&center=true&width=440&height=45&color=58a6ff&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Data%20Engineer%20%26%20Data%20Analyst;Always%20learning%20new%20things;&font=Fira%20Code&center=true&width=440&height=45&color=58a6ff&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
   </a>
 </p>
 
@@ -16,7 +16,7 @@
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">&nbsp;**About Me**
 
-- 🧑‍💻 I'm a passionate Data Scientist and Data Analyst focused on transforming raw data into actionable insights.
+- 🧑‍💻 I'm a passionate Data Engineer and Data Analyst focused on transforming raw data into actionable insights.
 - 🎓 Computer Science student, always exploring new tools and methodologies in data analysis and visualization.
 - 📊 Skilled in extracting, cleaning, and visualizing data to drive meaningful business decisions.
 - 🌏 I enjoy solving real-world problems with data and presenting findings through compelling dashboards and reports.
