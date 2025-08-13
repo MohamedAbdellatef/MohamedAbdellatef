@@ -20,7 +20,7 @@
 - 🧑‍💻 I'm a dedicated Data Engineer passionate about designing and optimizing data architectures and pipelines.
 - 🎓 Computer Science graduate, focused on end-to-end solutions for data ingestion, transformation, and storage.
 - 🚀 Experienced in ETL processes, cloud platforms, and scalable data engineering solutions.
-- 🌏 I thrive on solving business challenges by leveraging big data technologies and delivering actionable insights.
+- ☁️ Experienced with cloud platforms: AWS, Azure, GCP for data engineering and analytics projects.
 - 📊 Proficient in building automated workflows, integrating data from multiple sources, and ensuring data quality.
 - 👨‍💻 Visit my portfolio at https://mohamedabdellatef.me/ to explore my data engineering projects.
 
@@ -32,17 +32,18 @@
 <p>
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spark-FFCA28?style=for-the-badge&logo=apache-spark&logoColor=black"/>
   <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Databricks-F60022?style=for-the-badge&logo=databricks&logoColor=white"/>
 </p>
 
 **Frameworks & Libraries:**
 <p>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQLAlchemy-004B8D?style=for-the-badge&logo=sqlalchemy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
@@ -51,8 +52,7 @@
 
 **Tools & Platforms:**
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
