@@ -18,7 +18,7 @@
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">&nbsp;**About Me**
 
 - 🧑‍💻 I'm a dedicated Data Engineer passionate about designing and optimizing data architectures and pipelines.
-- 🎓 Computer Science graduate, focused on end-to-end solutions for data ingestion, transformation, and storage.
+- 🎓 Computer Science student, focused on end-to-end solutions for data ingestion, transformation, and storage.
 - 🚀 Experienced in ETL processes, cloud platforms, and scalable data engineering solutions.
 - ☁️ Experienced with cloud platforms: AWS, Azure, GCP for data engineering and analytics projects.
 - 📊 Proficient in building automated workflows, integrating data from multiple sources, and ensuring data quality.
