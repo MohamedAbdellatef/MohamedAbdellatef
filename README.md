@@ -15,7 +15,7 @@
 
 ---
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">&nbsp;**About Me**
+**About Me**
 
 - 🧑‍💻 I'm a dedicated Data Engineer passionate about designing and optimizing data architectures and pipelines.
 - 🎓 Computer Science student, focused on end-to-end solutions for data ingestion, transformation, and storage.
