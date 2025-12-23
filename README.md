@@ -35,7 +35,6 @@
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spark-FFCA28?style=for-the-badge&logo=apache-spark&logoColor=black"/>
   <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=black"/>
   <img src="https://img.shields.io/badge/Databricks-F60022?style=for-the-badge&logo=databricks&logoColor=white"/>
 </p>
 
@@ -62,7 +61,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/-Mohamed%20Abdellatef-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-abdellatif-/)
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Mohamed_Abdellatif_2)
-[![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/mohamedabdellatef22)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamed.abdellatif.work@gmail.com)
 
 ---
